@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\User\source\repos\hack\hack\main.cpp(45,33): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\User\source\repos\hack\hack\main.cpp(162,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\User\source\repos\hack\hack\main.cpp(190,81): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\User\source\repos\hack\hack\main.cpp(115): warning C4715: trycon: значение возвращается не при всех путях выполнения
-  hack.vcxproj -> C:\Users\User\source\repos\hack\x64\Debug\hack.exe
